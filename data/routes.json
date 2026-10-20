@@ -1,0 +1,468 @@
+{
+ "stops": {
+  "londres": {
+   "name": "Londres",
+   "lat": 51.5072,
+   "lng": -0.1276,
+   "country": "Reino Unido"
+  },
+  "cambridge": {
+   "name": "Cambridge",
+   "lat": 52.205,
+   "lng": 0.1225,
+   "country": "Reino Unido"
+  },
+  "york": {
+   "name": "York",
+   "lat": 53.96,
+   "lng": -1.08,
+   "country": "Reino Unido"
+  },
+  "durham": {
+   "name": "Durham",
+   "lat": 54.7732,
+   "lng": -1.5763,
+   "country": "Reino Unido"
+  },
+  "alnwick": {
+   "name": "Alnwick",
+   "lat": 55.4155,
+   "lng": -1.7065,
+   "country": "Reino Unido"
+  },
+  "edimburgo": {
+   "name": "Edimburgo",
+   "lat": 55.9533,
+   "lng": -3.1892,
+   "country": "Reino Unido"
+  },
+  "pitlochry": {
+   "name": "Pitlochry",
+   "lat": 56.7036,
+   "lng": -3.7355,
+   "country": "Reino Unido"
+  },
+  "inverness": {
+   "name": "Inverness",
+   "lat": 57.479,
+   "lng": -4.2257,
+   "country": "Reino Unido"
+  },
+  "urquhart": {
+   "name": "Lago Ness / Castillo de Urquhart",
+   "lat": 57.3241,
+   "lng": -4.442,
+   "country": "Reino Unido"
+  },
+  "fortaugustus": {
+   "name": "Fort Augustus",
+   "lat": 57.1448,
+   "lng": -4.6814,
+   "country": "Reino Unido"
+  },
+  "fortwilliam": {
+   "name": "Fort William",
+   "lat": 56.8198,
+   "lng": -5.1052,
+   "country": "Reino Unido"
+  },
+  "lomond": {
+   "name": "Lago Lomond (Luss)",
+   "lat": 56.101,
+   "lng": -4.6386,
+   "country": "Reino Unido"
+  },
+  "glasgow": {
+   "name": "Glasgow",
+   "lat": 55.8612,
+   "lng": -4.2502,
+   "country": "Reino Unido"
+  },
+  "cairnryan": {
+   "name": "Cairnryan",
+   "lat": 54.9738,
+   "lng": -5.0251,
+   "country": "Reino Unido"
+  },
+  "belfast": {
+   "name": "Belfast",
+   "lat": 54.5967,
+   "lng": -5.93,
+   "country": "Reino Unido"
+  },
+  "dublin": {
+   "name": "Dublín",
+   "lat": 53.35,
+   "lng": -6.2603,
+   "country": "Irlanda"
+  },
+  "holyhead": {
+   "name": "Holyhead",
+   "lat": 53.3107,
+   "lng": -4.6331,
+   "country": "Reino Unido"
+  },
+  "caernarfon": {
+   "name": "Caernarfon",
+   "lat": 53.14,
+   "lng": -4.27,
+   "country": "Reino Unido"
+  },
+  "liverpool": {
+   "name": "Liverpool",
+   "lat": 53.4072,
+   "lng": -2.9917,
+   "country": "Reino Unido"
+  },
+  "stratford": {
+   "name": "Stratford-upon-Avon",
+   "lat": 52.1928,
+   "lng": -1.7064,
+   "country": "Reino Unido"
+  },
+  "oxford": {
+   "name": "Oxford",
+   "lat": 51.7519,
+   "lng": -1.2578,
+   "country": "Reino Unido"
+  },
+  "bankfoot": {
+   "name": "Bankfoot",
+   "lat": 56.501,
+   "lng": -3.516,
+   "country": "Reino Unido"
+  },
+  "culloden": {
+   "name": "Campo de batalla de Culloden",
+   "lat": 57.4772,
+   "lng": -4.0926,
+   "country": "Reino Unido"
+  }
+ },
+ "routes": {
+  "falabella": {
+   "label": "Ruta Falabella (bus y ferry)",
+   "style": "dashed",
+   "sequence": [
+    "londres",
+    "cambridge",
+    "york",
+    "durham",
+    "alnwick",
+    "edimburgo",
+    "pitlochry",
+    "inverness",
+    "urquhart",
+    "fortaugustus",
+    "fortwilliam",
+    "lomond",
+    "glasgow",
+    "cairnryan",
+    "belfast",
+    "dublin",
+    "holyhead",
+    "caernarfon",
+    "liverpool",
+    "stratford",
+    "oxford",
+    "londres"
+   ],
+   "legs": [
+    {
+     "from": "londres",
+     "to": "cambridge",
+     "mode": "bus"
+    },
+    {
+     "from": "cambridge",
+     "to": "york",
+     "mode": "bus"
+    },
+    {
+     "from": "york",
+     "to": "durham",
+     "mode": "bus"
+    },
+    {
+     "from": "durham",
+     "to": "alnwick",
+     "mode": "bus"
+    },
+    {
+     "from": "alnwick",
+     "to": "edimburgo",
+     "mode": "bus"
+    },
+    {
+     "from": "edimburgo",
+     "to": "pitlochry",
+     "mode": "bus"
+    },
+    {
+     "from": "pitlochry",
+     "to": "inverness",
+     "mode": "bus"
+    },
+    {
+     "from": "inverness",
+     "to": "urquhart",
+     "mode": "bus"
+    },
+    {
+     "from": "urquhart",
+     "to": "fortaugustus",
+     "mode": "bus"
+    },
+    {
+     "from": "fortaugustus",
+     "to": "fortwilliam",
+     "mode": "bus"
+    },
+    {
+     "from": "fortwilliam",
+     "to": "lomond",
+     "mode": "bus"
+    },
+    {
+     "from": "lomond",
+     "to": "glasgow",
+     "mode": "bus"
+    },
+    {
+     "from": "glasgow",
+     "to": "cairnryan",
+     "mode": "bus"
+    },
+    {
+     "from": "cairnryan",
+     "to": "belfast",
+     "mode": "ferry",
+     "geometry": [
+      [
+       54.999,
+       -5.1
+      ],
+      [
+       54.85,
+       -5.45
+      ],
+      [
+       54.72,
+       -5.6
+      ],
+      [
+       54.68,
+       -5.78
+      ]
+     ]
+    },
+    {
+     "from": "belfast",
+     "to": "dublin",
+     "mode": "bus"
+    },
+    {
+     "from": "dublin",
+     "to": "holyhead",
+     "mode": "ferry",
+     "geometry": [
+      [
+       53.345,
+       -6.12
+      ],
+      [
+       53.35,
+       -4.58
+      ]
+     ]
+    },
+    {
+     "from": "holyhead",
+     "to": "caernarfon",
+     "mode": "bus"
+    },
+    {
+     "from": "caernarfon",
+     "to": "liverpool",
+     "mode": "bus"
+    },
+    {
+     "from": "liverpool",
+     "to": "stratford",
+     "mode": "bus"
+    },
+    {
+     "from": "stratford",
+     "to": "oxford",
+     "mode": "bus"
+    },
+    {
+     "from": "oxford",
+     "to": "londres",
+     "mode": "bus"
+    }
+   ],
+   "nights": {
+    "londres": 4,
+    "durham": 1,
+    "edimburgo": 1,
+    "glasgow": 1,
+    "dublin": 2,
+    "liverpool": 1
+   },
+   "notes": {
+    "londres": "3 noches al inicio + 1 al final",
+    "glasgow": "El itinerario real es Glasgow -> ferry (Cairnryan) -> Belfast"
+   }
+  },
+  "planA": {
+   "label": "Plan A (tren)",
+   "sequence": [
+    "londres",
+    "york",
+    "edimburgo",
+    "londres"
+   ],
+   "legs": [
+    {
+     "from": "londres",
+     "to": "york",
+     "mode": "train"
+    },
+    {
+     "from": "york",
+     "to": "edimburgo",
+     "mode": "train"
+    },
+    {
+     "from": "edimburgo",
+     "to": "londres",
+     "mode": "train"
+    }
+   ],
+   "daytrips": [
+    {
+     "label": "Excursion Highlands: Inverness, Lago Ness y Castillo de Urquhart (Viajar por Escocia, 13 h)",
+     "sequence": [
+      "edimburgo",
+      "bankfoot",
+      "culloden",
+      "urquhart",
+      "inverness",
+      "pitlochry",
+      "edimburgo"
+     ]
+    },
+    {
+     "label": "Excursion a Glasgow (tren)",
+     "sequence": [
+      "edimburgo",
+      "glasgow",
+      "edimburgo"
+     ]
+    }
+   ],
+   "optionalStops": [
+    "durham"
+   ],
+   "optionalInsertAfter": {
+    "durham": "york"
+   },
+   "nights": {
+    "londres": 4,
+    "york": 2,
+    "edimburgo": 4
+   }
+  },
+  "planALiverpool": {
+   "label": "Plan A con Liverpool (tren)",
+   "sequence": [
+    "londres",
+    "york",
+    "edimburgo",
+    "liverpool",
+    "londres"
+   ],
+   "legs": [
+    {
+     "from": "londres",
+     "to": "york",
+     "mode": "train"
+    },
+    {
+     "from": "york",
+     "to": "edimburgo",
+     "mode": "train"
+    },
+    {
+     "from": "edimburgo",
+     "to": "liverpool",
+     "mode": "train"
+    },
+    {
+     "from": "liverpool",
+     "to": "londres",
+     "mode": "train"
+    }
+   ],
+   "nights": {
+    "londres": 4,
+    "york": 2,
+    "edimburgo": 4,
+    "liverpool": 2
+   },
+   "daytrips": [
+    {
+     "label": "Excursion Highlands: Inverness, Lago Ness y Castillo de Urquhart (Viajar por Escocia, 13 h)",
+     "sequence": [
+      "edimburgo",
+      "bankfoot",
+      "culloden",
+      "urquhart",
+      "inverness",
+      "pitlochry",
+      "edimburgo"
+     ]
+    },
+    {
+     "label": "Excursion a Glasgow (tren)",
+     "sequence": [
+      "edimburgo",
+      "glasgow",
+      "edimburgo"
+     ]
+    }
+   ]
+  }
+ },
+ "hotels": {
+  "h10waterloo": {
+   "name": "H10 London Waterloo",
+   "city": "Londres",
+   "stop": "londres",
+   "lat": 51.4989,
+   "lng": -0.1063,
+   "address": "284-302 Waterloo Road, London SE1 8RQ",
+   "source": "OSM Nominatim (Dodson Street, adyacente); direccion confirmada por varias fichas"
+  },
+  "hamptonyork": {
+   "name": "Hampton by Hilton York",
+   "city": "York",
+   "stop": "york",
+   "lat": 53.9564,
+   "lng": -1.0776,
+   "address": "46-50 Piccadilly, York YO1 9NX",
+   "source": "OSM Nominatim",
+   "note": "Existe otra ficha 'Hampton by Hilton York' en Toft Green (YO1 6JT) ~53.9576,-1.0900; confirmar con la reserva"
+  },
+  "motelone": {
+   "name": "Motel One Edinburgh-Princes",
+   "city": "Edimburgo",
+   "stop": "edimburgo",
+   "lat": 55.9535,
+   "lng": -3.19,
+   "address": "10-15 Princes Street, Edinburgh",
+   "source": "OSM Nominatim"
+  }
+ }
+}

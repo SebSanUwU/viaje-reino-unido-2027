@@ -1,0 +1,134 @@
+[
+ {
+  "file": "cover-edinburgh.webp",
+  "subject": "cover-edinburgh",
+  "alt_es": "Edinburgh Castle sobre Castle Rock",
+  "author": "Saffron Blaze",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Edinburgh_Castle_Rock.jpg",
+  "width": 1280,
+  "height": 852
+ },
+ {
+  "file": "tower-of-london.webp",
+  "subject": "tower-of-london",
+  "alt_es": "Torre de Londres vista desde el río Támesis",
+  "author": "Bob Collowan",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Tower_of_London_viewed_from_the_River_Thames.jpg",
+  "width": 1280,
+  "height": 804
+ },
+ {
+  "file": "westminster.webp",
+  "subject": "westminster",
+  "alt_es": "Big Ben al amanecer",
+  "author": "Bjørn Erik Pedersen",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Big_Ben_at_sunrise,_2016.jpg",
+  "width": 1280,
+  "height": 851
+ },
+ {
+  "file": "british-museum.webp",
+  "subject": "british-museum",
+  "alt_es": "Gran Patio del Museo Británico",
+  "author": "Andy Li",
+  "license": "CC0",
+  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Great_Court,_British_Museum_2024-12-20.jpg",
+  "width": 1280,
+  "height": 964
+ },
+ {
+  "file": "york-minster.webp",
+  "subject": "york-minster",
+  "alt_es": "Catedral de York Minster vista desde la ciudad",
+  "author": "MatzeTrier",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:York_Minster_from_M%26S.JPG",
+  "width": 1280,
+  "height": 960
+ },
+ {
+  "file": "royal-mile.webp",
+  "subject": "royal-mile",
+  "alt_es": "La Royal Mile de Edimburgo",
+  "author": "rboed*",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:The_Royal_Mile,_Edinburgh,_Scotland.jpg",
+  "width": 1280,
+  "height": 846
+ },
+ {
+  "file": "york-shambles.webp",
+  "subject": "york-shambles",
+  "alt_es": "Calle The Shambles en York",
+  "author": "FrDr",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Shambles_York_17.jpg",
+  "width": 1280,
+  "height": 854
+ },
+ {
+  "file": "edinburgh-castle.webp",
+  "subject": "edinburgh-castle",
+  "alt_es": "Vista general del castillo de Edimburgo",
+  "author": "Saffron Blaze",
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Edinburgh_Castle_Overview.jpg",
+  "width": 1280,
+  "height": 829
+ },
+ {
+  "file": "urquhart-castle.webp",
+  "subject": "urquhart-castle",
+  "alt_es": "Ruinas del castillo de Urquhart junto al lago Ness",
+  "author": "Bewahrerderwerte",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:2018_07_11_Schottland_(15).jpg",
+  "width": 1280,
+  "height": 960
+ },
+ {
+  "file": "culloden-or-inverness.webp",
+  "subject": "culloden-or-inverness",
+  "alt_es": "Castillo de Inverness sobre la colina junto al río Ness",
+  "author": "dave conner",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Castle_in_Inverness.jpg",
+  "width": 1280,
+  "height": 960
+ },
+ {
+  "file": "glasgow-kelvingrove.webp",
+  "subject": "glasgow-kelvingrove",
+  "alt_es": "Galería de Arte y Museo Kelvingrove en Glasgow",
+  "author": "Daniel from Glasgow, United Kingdom",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Kelvingrove_Art_Gallery_and_Museum_(42627137285).jpg",
+  "width": 1280,
+  "height": 854
+ },
+ {
+  "file": "liverpool-albert-dock.webp",
+  "subject": "liverpool-albert-dock",
+  "alt_es": "Almacenes de ladrillo del Albert Dock de Liverpool reflejados en el agua",
+  "author": "Dwofcltheroe",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "source_url": "https://commons.wikimedia.org/wiki/File:162_6203~2_edit.jpg",
+  "width": 1280,
+  "height": 721
+ }
+]
